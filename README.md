@@ -39,7 +39,7 @@ Follow the instructions in [this document](https://docs.google.com/document/d/1l
  - In your commit message, lead off with the ticket you're addressing (i.e. "STRAT-31 Creating a tutorial")
  - Push the changes to an upstream branch
  - Open a Pull Request to the strategy repository and detail your changes. The PR will be reviewed by other team members.
- - If your PR has not been reviewed within 24 hours, copy the link and paste it into the gen-strategy channel on Slack
+ - If your PR has not been reviewed within 24 hours, copy the link and paste it into the gen-strategy channel on Slack.
 
 ## Questions?
 Message Emma Wai or Michael Shiozaki on Slack.
@@ -50,6 +50,7 @@ Message Emma Wai or Michael Shiozaki on Slack.
 - https://docs.scipy.org/doc/numpy/user/quickstart.html
 - https://uwmidsun.atlassian.net/wiki
 
-### For learning Python:
-- https://www.codecademy.com/learn/learn-python
-- https://www.learnpython.org/
+## Onboarding Hello!
+List your name here:
+- Emma Wai
+- Aryaman Singh
